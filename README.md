@@ -12,3 +12,6 @@
 8. Update the dvc.yaml 
 
 updated the readme file in the main filer
+
+chicken disease classification
+
