@@ -10,3 +10,5 @@
 6. Update the pipline
 7. Update the main.py
 8. Update the dvc.yaml 
+
+updated the readme file in the main filer
